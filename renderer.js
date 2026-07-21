@@ -37,8 +37,8 @@ const Cache = {
   },
 };
 
-const GEOCODE_URL = "https://geocoding-api3.open-meteo.com/v1/search";
-const FORECAST_URL = "https://api3.open-meteo.com/v1/forecast";
+const GEOCODE_URL = "https://geocoding-api.open-meteo.com/v1/search";
+const FORECAST_URL = "https://api.open-meteo.com/v1/forecast";
 
 const WEATHER_CODES = {
   0: ["Clear sky", "sunny"],
